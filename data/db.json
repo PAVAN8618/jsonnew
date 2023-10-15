@@ -1,0 +1,54 @@
+{
+"data":[
+  {
+  "product_id": "123456",
+  "name": "Example Product",
+  "description": "This is an example product description.",
+  "price": 29.99,
+  "id": 1,
+  "loc":"India"
+  
+  },
+  {
+    "product_id": "1236",
+    "name": "Product",
+    "description": " product description.",
+    "price": 99,
+    "id": 2,
+    "loc":"pak"
+    },
+    {
+      "product_id": "156",
+      "name": "Example ",
+      "description": "This is an example .",
+      "price": 29199,
+      "id": 3,
+      "loc":"India"
+      },
+
+      {
+        "product_id": "1236",
+        "name": "Product",
+        "description": " product description.",
+        "price": 99,
+        "id": 4,
+        "loc":"India"
+        },
+        {
+          "product_id": "1236",
+          "name": "Product",
+          "description": " product description.",
+          "price": 99,
+          "id": 5,
+          "loc":"pak"
+          },
+          {
+            "product_id": "1236",
+            "name": "Product",
+            "description": " product description.",
+            "price": 99,
+            "id": 6,
+            "loc":"pak"
+            }
+]
+}

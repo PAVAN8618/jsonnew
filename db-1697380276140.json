@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "product_id": "123456",
+      "name": "Example Product",
+      "description": "This is an example product description.",
+      "price": 29.99
+    },
+    {
+      "product_id": "1236",
+      "name": "Product",
+      "description": " product description.",
+      "price": 99
+    },
+    {
+      "product_id": "156",
+      "name": "Example ",
+      "description": "This is an example .",
+      "price": 29199
+    }
+  ]
+}
